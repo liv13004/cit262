@@ -413,13 +413,15 @@ public class JTextAreaPanel extends JPanel
   // -------------------------------------------------------------------------/
 
   // Define a isManagingFocus() wrapper method.
+ 
+  /*Deprecated
   public boolean isManagingFocus()
   {
     // Get JTextArea managing focus status.
     return ta.isManagingFocus();
 
   } // End of isManagingFocus() wrapper method.
-
+*/
   // -------------------------------------------------------------------------/
 
   // Define a replaceRange() wrapper method.

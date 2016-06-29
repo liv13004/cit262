@@ -27,7 +27,6 @@ import java.io.*;             // Required for Java streams.
 import java.lang.*;           // Required for general Java language use.
 import javax.swing.*;         // Required for Swing widgets.
 import javax.swing.text.*;    // Required for wrappers to JTextArea().
-
 // ------------------------------ Begin Class --------------------------------/
 
 // Class definition.
@@ -238,7 +237,7 @@ public class JMessagingFrame extends JFrame
         {
           // Print message until implemented.
           System.out.println("Database Connection .... ");
-
+          
         } // End of actionPerformed() method.
       }); // End of JDBCButton action listener.
 
